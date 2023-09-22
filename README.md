@@ -86,7 +86,7 @@
     </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="36" height="36" alt="Next.js" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="36" height="36" alt="Next.js" />
       </a>
       <br>Next.js
     </td>
