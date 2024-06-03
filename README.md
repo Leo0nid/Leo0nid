@@ -1,4 +1,4 @@
-![image](https://github.com/Leo0nid/Leo0nid/assets/121210862/9c9d09a5-1e22-4bec-aa52-9bcba47c5fcd)<div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="250" />
 </div>
 
@@ -81,12 +81,6 @@
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React.js" />
-      </a>
-      <br>React.js
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">  
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React.js" />    
       </a>
       <br>React.js
     </td>
