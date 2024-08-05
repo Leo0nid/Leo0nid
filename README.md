@@ -6,10 +6,6 @@
    <a href="https://t.me/Mugen1L">   
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
-
-  <a href="https://www.linkedin.com/in/leonid-lastin/">     
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   
 </div>
 
