@@ -2,12 +2,6 @@
   <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="250" />
 </div>
 
-<div align="center" id="badges" >
-   <a href="https://t.me/Mugen1L">   
-    <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-   </a>
-  
-</div>
 
 <h2 align="left" id="stack">Tech stack</h2>
 
