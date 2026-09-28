@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="250" />
+  <img
+    src="https://media3.giphy.com/media/muGYyrWwxOOMo/giphy.gif"
+    width="400"
+    alt="Анимация"
+  />
 </div>
 
 <h2 align="left" id="stack">Tech stack</h2>
