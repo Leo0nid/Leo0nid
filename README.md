@@ -2,144 +2,122 @@
   <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="250" />
 </div>
 
-
 <h2 align="left" id="stack">Tech stack</h2>
 
-<table width='100%'>
+<table width="100%">
   <tr>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-        <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>Yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>Npm
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>GitHub
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
       </a>
       <br>Docker
     </td>
-  </tr> 
+  </tr>
 </table>
 
 > Frontend
 
-<table width='100%'>
+<table width="100%">
   <tr>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React.js" />
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React.js" />
       </a>
       <br>React.js
     </td>
-       <td align="center" width="110" height="90">
-      <a href="#debabin-stack">  
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="React.js" />      
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" />
       </a>
       <br>Vue.js
     </td>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt 3/4" />
       </a>
-      <br>Next.js
+      <br>Nuxt 3/4
     </td>
- <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
+      </a>
+      <br>Pinia
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr> 
-    <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
-    </td> 
+    </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+    <td align="center" width="110" height="90">
+      <a href="https://tailwindcss.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" />
       </a>
-      <br>Tailwind
+      <br>Tailwind CSS
     </td>
-  </tr> 
+    <td align="center" width="110" height="90"></td>
+  </tr>
 </table>
 
 > Backend
-<table width='100%'>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
+
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
-  </tr> 
+  </tr>
 </table>
