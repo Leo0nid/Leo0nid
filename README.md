@@ -16,6 +16,12 @@
       </a>
       <br>JavaScript
     </td>
+        <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>TypeScript
+    </td>
     <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
