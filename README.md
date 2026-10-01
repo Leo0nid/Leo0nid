@@ -115,7 +115,7 @@
       </a>
       <br>Tailwind CSS
     </td>
-    <td align="center" width="110" height="90"></td>
+  
   </tr>
 </table>
 
